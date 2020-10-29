@@ -27,9 +27,15 @@ Files
 
 Model-rf.ipynb – Follows the instructions to read the exoplanet_data.csv file to a jupyter notebook through selection the RandomForestClassifier model. The model is trained and tuned for accuracy. 
 
+![RandomForestClassifier]("/Images/RFC.PNG")
+
 Model-LoRegress.ipynb – Follows the instructions to read the exoplanet_data.csv file to a jupyter notebook through selection the LogisticRegression model. The model is trained and tuned for accuracy.
 
+![Logisitic Regression]("/Images/LG.PNG")
+
 Model-SVM.ipynb – Follows the instructions to read the exoplanet_data.csv file to a jupyter notebook through selection the Support Vector Machine model. The model is trained and tuned for accuracy. 
+
+![SVM]("/Images/SVM.PNG")
 
 
 

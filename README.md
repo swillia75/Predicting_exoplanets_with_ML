@@ -31,11 +31,11 @@ Model-rf.ipynb – Follows the instructions to read the exoplanet_data.csv file 
 
 Model-LoRegress.ipynb – Follows the instructions to read the exoplanet_data.csv file to a jupyter notebook through selection the LogisticRegression model. The model is trained and tuned for accuracy.
 
-![Logisitic Regression](Images/LG.PNG)
+![Logisitic Regression](Images/LG.png)
 
 Model-SVM.ipynb – Follows the instructions to read the exoplanet_data.csv file to a jupyter notebook through selection the Support Vector Machine model. The model is trained and tuned for accuracy. 
 
-![SVM](Images/SVM.PNG)
+![SVM](Images/SVM.png)
 
 
 
